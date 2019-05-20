@@ -1,0 +1,6 @@
+{
+    "name": "atmatsum/trial_php",
+    "require": {
+        "basvandorst/StravaPHP": "1.2.0"
+    }
+}
