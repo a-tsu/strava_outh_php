@@ -1,5 +1,5 @@
 {
-    "name": "atmatsum/trial_php",
+    "name": "a-tsu/strava_outh_php",
     "require": {
         "basvandorst/StravaPHP": "1.2.0"
     }
