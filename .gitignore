@@ -1,2 +1,3 @@
 vendor
-secret
+secret/*
+!secret/.gitkeep
