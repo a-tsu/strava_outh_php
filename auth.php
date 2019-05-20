@@ -7,7 +7,7 @@ use Strava\API\Exception;
 
 try {
     $options = [
-        'clientId'     => 35202,
+        'clientId'     => 35202, // change this to your client id.
         'clientSecret' => getenv('CLIENT_SECRET'),
         'redirectUri'  => 'http://127.0.0.1/auth.php'
     ];
